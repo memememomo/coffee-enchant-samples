@@ -1,0 +1,4 @@
+.DS_Store
+Gruntfile.js*
+main.js*
+node_modules
