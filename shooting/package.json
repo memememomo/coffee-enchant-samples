@@ -1,0 +1,30 @@
+{
+  "name": "js-enchant-template",
+  "version": "0.0.0",
+  "description": "http://dotinstall.com/lessons/basic_enchant_js_v2",
+  "main": "main.js",
+  "dependencies": {
+    "grunt": "~0.4.5",
+    "grunt-cli": "~0.1.13"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-coffee": "^0.10.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "connect": "^2.19.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/memememomo/js-enchant-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/memememomo/js-enchant-template/issues"
+  },
+  "homepage": "https://github.com/memememomo/js-enchant-template"
+}
